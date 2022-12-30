@@ -27,6 +27,10 @@
 #about-app{
     text-align: center;
 }
+#about-app a{
+    text-decoration: none;
+    color: rgba(23, 82, 109, 0.553);
+}
 
 #about-app .video{
     width: 70%;
